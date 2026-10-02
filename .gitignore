@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 /data
+handwriting_cnn.pth
